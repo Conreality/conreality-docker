@@ -6,6 +6,7 @@ LABEL maintainer="Arto Bendiken <arto@conreality.org>"
 
 ENV TZ="UTC" LANG="en_US.UTF-8"
 VOLUME /srv
+EXPOSE 22
 
 COPY .docker/install.sh .docker/packages.txt /root/
 RUN /root/install.sh /root/packages.txt
