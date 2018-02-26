@@ -12,5 +12,6 @@ nano
 s6
 s6-rc
 su-exec
+tree
 vim
 xz
