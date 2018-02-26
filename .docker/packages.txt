@@ -1,13 +1,16 @@
 avahi
 avahi-tools
+ca-certificates
 dbus
 dropbear
 dropbear-scp
 erlang
 joe
+libstdc++
 lua5.3-libs
 nano
 s6
 s6-rc
 su-exec
 vim
+xz
