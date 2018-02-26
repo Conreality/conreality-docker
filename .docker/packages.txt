@@ -1,0 +1,9 @@
+avahi
+avahi-tools
+dbus
+dropbear
+dropbear-scp
+erlang
+s6
+s6-rc
+su-exec
