@@ -4,7 +4,7 @@ RUN apk update && apk upgrade
 
 LABEL maintainer="Arto Bendiken <arto@conreality.org>"
 
-ENV TZ="UTC" LANG="en_US.UTF-8"
+ENV TZ="UTC" LANG="en_US.UTF-8" PAGER="less"
 VOLUME /srv
 EXPOSE 22
 

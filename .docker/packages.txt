@@ -6,6 +6,7 @@ dropbear
 dropbear-scp
 erlang
 joe
+less
 libstdc++
 lua5.3-libs
 nano
