@@ -1,1 +1,1 @@
-#!/bin/sh
+#!/bin/execlineb -P

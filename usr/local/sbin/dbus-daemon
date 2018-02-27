@@ -1,2 +1,2 @@
-#!/bin/sh
-exec /usr/bin/dbus-daemon --system --nofork --nopidfile
+#!/bin/execlineb -Ws0
+/usr/bin/dbus-daemon --system --nofork --nopidfile

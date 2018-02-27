@@ -1,2 +1,2 @@
-#!/bin/sh
-exec /bin/s6-svscan /etc/s6
+#!/bin/execlineb -WP
+/bin/s6-svscan /etc/s6
