@@ -2,6 +2,7 @@ avahi
 avahi-tools
 ca-certificates
 dbus
+dnsmasq
 dropbear
 dropbear-scp
 erlang
