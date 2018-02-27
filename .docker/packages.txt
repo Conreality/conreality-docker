@@ -6,6 +6,7 @@ dnsmasq
 dropbear
 dropbear-scp
 erlang
+execline
 joe
 less
 libstdc++
