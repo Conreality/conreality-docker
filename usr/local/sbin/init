@@ -1,2 +1,2 @@
 #!/bin/execlineb -WP
-/bin/s6-svscan /etc/s6/services
+/bin/s6-svscan -c16 -t0 /etc/s6/services

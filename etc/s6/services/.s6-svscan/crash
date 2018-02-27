@@ -1,2 +1,2 @@
 #!/bin/execlineb -WP
-/bin/exit
+/bin/exit 111
